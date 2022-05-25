@@ -2,7 +2,7 @@
     border: 1px solid blue;
     display: flex;
     background-color: blue;
-    flex-basis: 90vw;
+    flex-basis: 70vw;
     justify-content: space-around;
     align-items: center;
 }
@@ -64,7 +64,7 @@
 .footercontainer{
     border: 1px solid blue;
     background-color: blue;
-    flex-basis: 80vw;
+    flex-basis: 70vw;
     display: flex;
     height: 50px;
     justify-content: space-around;
